@@ -56,9 +56,9 @@
 // }
 
 //function
-let vb = volumebalok(10, 20, 5);
-console.log("Jadi volume baloknya adalah" + " " + vb);
+// let vb = volumebalok(10, 20, 5);
+// console.log("Jadi volume baloknya adalah" + " " + vb);
 
-function volumebalok(p, l, t) {
-  return p * l * t;
-}
+// function volumebalok(p, l, t) {
+//   return p * l * t;
+// }
